@@ -10,5 +10,7 @@ namespace Projekt_PO
 
     {
         public string Nazwa_Drużyny {  get; set; }
+
+        public Gracz Gracz { get; set; }
     }
 }

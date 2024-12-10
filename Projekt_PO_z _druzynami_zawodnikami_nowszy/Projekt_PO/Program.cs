@@ -5,6 +5,11 @@ using Projekt_PO;
 
 public class Program : Rejestracja
 {
+    //Obsługa gita
+    //git add .
+    //git commit -m ""
+    //git push (wysyłanie)
+    //git pull (pobieranie)
     // Punkt wejścia
     public static void Main()
     {
