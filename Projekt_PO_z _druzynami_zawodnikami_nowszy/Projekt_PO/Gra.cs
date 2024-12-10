@@ -9,8 +9,8 @@ namespace Projekt_PO
     public class Gry
 
     {
-        public string Nazwa {  get; set; }
+        public string Nazwa { get; set; }
     }
 
-     
-    }
+
+}

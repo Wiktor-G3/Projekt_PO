@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Projekt_PO
 {
-    public class Mecz : Turniej
+    public class Mecz
     {
         public int numer_Meczu {  get; set; }
+        public Drużyna[] Drużyny_meczu { get; set; }
     }
 }

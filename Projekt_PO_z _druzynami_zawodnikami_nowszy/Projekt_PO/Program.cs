@@ -6,10 +6,11 @@ using Projekt_PO;
 public class Program : Rejestracja
 {
     //Obsługa gita
-    //git add .
-    //git commit -m ""
-    //git push (wysyłanie)
+    //git add .   (wysyłanie)
+    //git commit -m "" (-||-)
+    //git push (-||-)
     //git pull (pobieranie)
+
     // Punkt wejścia
     public static void Main()
     {

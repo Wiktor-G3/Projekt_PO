@@ -8,14 +8,14 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Projekt_PO
 {
-    public class Turniej : Gry
+    public class Turniej
     {
         public string Nazwa_Turnieju { get; set; }
         public int Data { get; set; }
         public string Waga_Turnieju { get; set; }
 
+        public Mecz[] Mecze { get; set; }
 
-
-
+        public Gry Gra {  get; set; }
     }
 }

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Projekt_PO
 {
-    public class Drużyna : Gry
+    public class Drużyna 
 
     {
         public string Nazwa_Drużyny {  get; set; }
-
-        public Gracz Gracz { get; set; }
+        public Gry Gry { get; set; }
+        public Gracz[] zespół {  get; set; }
     }
 }
