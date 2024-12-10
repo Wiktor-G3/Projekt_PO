@@ -1,0 +1,70 @@
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.exe
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.deps.json
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.runtimeconfig.json
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.dll
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.pdb
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfo.cs
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.dll
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\refint\Projekt_PO.dll
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.pdb
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.genruntimeconfig.cache
+C:\Users\micha\Desktop\C# programy\Projekt_PO\Projekt_PO\obj\Debug\net9.0\ref\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.exe
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.deps.json
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.runtimeconfig.json
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\bin\Debug\net9.0\Projekt_PO.pdb
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfoInputs.cache
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfo.cs
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.csproj.CoreCompileInputs.cache
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\refint\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.pdb
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\Projekt_PO.genruntimeconfig.cache
+C:\Users\janwa\Desktop\Projekt_PO\Projekt_PO\obj\Debug\net9.0\ref\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.exe
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.deps.json
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.runtimeconfig.json
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.pdb
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfoInputs.cache
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfo.cs
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.csproj.CoreCompileInputs.cache
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\refint\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.pdb
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.genruntimeconfig.cache
+C:\Users\janwa\Desktop\Projekt_PO_z druzynami i uzytkownikami\Projekt_PO\obj\Debug\net9.0\ref\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.exe
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.deps.json
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.runtimeconfig.json
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\bin\Debug\net9.0\Projekt_PO.pdb
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfoInputs.cache
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfo.cs
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.csproj.CoreCompileInputs.cache
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\refint\Projekt_PO.dll
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.pdb
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\Projekt_PO.genruntimeconfig.cache
+C:\Users\janwa\Desktop\Projekt_PO_z _druzynami_zawodnikami\Projekt_PO\obj\Debug\net9.0\ref\Projekt_PO.dll
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\bin\Debug\net9.0\Projekt_PO.exe
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\bin\Debug\net9.0\Projekt_PO.deps.json
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\bin\Debug\net9.0\Projekt_PO.runtimeconfig.json
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\bin\Debug\net9.0\Projekt_PO.dll
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\bin\Debug\net9.0\Projekt_PO.pdb
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\Projekt_PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfoInputs.cache
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\Projekt_PO.AssemblyInfo.cs
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\Projekt_PO.csproj.CoreCompileInputs.cache
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\Projekt_PO.dll
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\refint\Projekt_PO.dll
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\Projekt_PO.pdb
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\Projekt_PO.genruntimeconfig.cache
+C:\Users\wiktor\source\repos\Projekt_PO_z _druzynami_zawodnikami_nowszy\Projekt_PO\obj\Debug\net9.0\ref\Projekt_PO.dll
